@@ -1993,7 +1993,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #014421 url("images/overlay.png"); <!-- formerly colo #e97770 -->
 				color: #fff;
 			}
 
