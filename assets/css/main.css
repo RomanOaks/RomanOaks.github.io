@@ -1987,13 +1987,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #014421 url("images/overlay.png"); <!-- formerly color #e97770, changes the actual background -->
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #014421 url("images/overlay.png"); <!-- formerly colo #e97770 -->
+				background: #014421 url("images/overlay.png"); <!-- formerly color #e97770 -->
 				color: #fff;
 			}
 
